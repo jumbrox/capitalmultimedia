@@ -38,7 +38,7 @@
                 </figure>
             </div>
             <div class="col-md-8 col-12 content">
-                <h3>About Us</h3>
+                <h3>About Us Capital Multimedia Limited</h3>
                 <p>
                     Since its establishment in 2000 by media luminary Salomey Eferemo, Capital Multimedia has been at the forefront of Nigeria's media 
                     landscape. With a solid foundation built on 24 years of experience, our company remains committed to using media as a powerful tool for
