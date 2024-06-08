@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10">
-            <h2 data-aos="fade-up" data-aos-delay="100">Welcome to Capital Multimedia</h2>
+            <h2 data-aos="fade-up" data-aos-delay="100">Welcome to Capital Multimedia Limited</h2>
             <p data-aos="fade-up" data-aos-delay="200">... a one-stop destination for all things multimedia.</p>
           </div>
           <div class="col-lg-5">
@@ -38,7 +38,7 @@
                 </figure>
             </div>
             <div class="col-md-8 col-12 content">
-                <h3>About Us</h3>
+                <h3>About Us Capital Multimedia Limited</h3>
                 <p>
                     Since its establishment in 2000 by media luminary Salomey Eferemo, Capital Multimedia has been at the forefront of Nigeria's media 
                     landscape. With a solid foundation built on 24 years of experience, our company remains committed to using media as a powerful tool for
