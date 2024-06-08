@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10">
-            <h2 data-aos="fade-up" data-aos-delay="100">Welcome to Capital Multimedia</h2>
+            <h2 data-aos="fade-up" data-aos-delay="100">Welcome to Capital Multimedia Limited</h2>
             <p data-aos="fade-up" data-aos-delay="200">... a one-stop destination for all things multimedia.</p>
           </div>
           <div class="col-lg-5">
